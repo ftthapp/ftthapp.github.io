@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921875173287",
+    "project_id": "ftthapp-136f5",
+    "storage_bucket": "ftthapp-136f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921875173287:android:9e71660784a800e0413082",
+        "android_client_info": {
+          "package_name": "com.example.ftthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZ2kbjIVmEHwe-2PlsU1RtXEQv-I_CQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
